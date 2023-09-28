@@ -1,6 +1,6 @@
 # The Full procedure of doing this practical you can find in below link :
 
-## “Getting Started with Ansible” by Raktim Midya - https://link.medium.com/V3CJcS7Bkab
+## “Getting Started with Ansible”
 
 ### Problem Statement :
 
